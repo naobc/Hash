@@ -1,0 +1,9 @@
+Ordenamiento de nombres por el metodo hash:
+Abiam
+Alma
+Bel
+David
+Miguel
+Osvaldo
+Sandy
+Val
